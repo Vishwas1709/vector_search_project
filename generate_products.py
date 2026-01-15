@@ -20,7 +20,6 @@ fashion = [
     "Puma Sports T-Shirt", "Levis 501 Jeans",
     "Zara Slim Fit Shirt"
 ]
-
 groceries = [
     "Organic Apple 1kg", "Fresh Milk 1L",
     "Brown Bread 400g", "Fortune Sunflower Oil 1L",
