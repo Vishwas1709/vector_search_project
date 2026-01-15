@@ -1,0 +1,501 @@
+product_id,product_name
+1,Apple iPhone 14 Pro
+2,Apple iPhone 14
+3,Samsung Galaxy S22 Ultra
+4,Samsung Galaxy S22
+5,HP Pavilion Laptop
+6,Dell Inspiron 15
+7,Sony WH-1000XM4 Headphones
+8,Apple AirPods Pro
+9,Samzung Galaxy S21
+10,Aple iPhone 14
+11,Del Inspiron 155
+12,Soni WH-1000XM4
+13,Nike Air Max Shoes
+14,Adidas Ultraboost
+15,Puma Sports T-Shirt
+16,Levis 501 Jeans
+17,Zara Slim Fit Shirt
+18,Organic Apple 1kg
+19,Fresh Milk 1L
+20,Brown Bread 400g
+21,Fortune Sunflower Oil 1L
+22,Aashirvaad Atta 5kg
+23,Adidas Ultraboost
+24,Apple iPhone 14 Pro
+25,Sony WH-1000XM4 Headphones
+26,Levis 501 Jeans
+27,Aashirvaad Atta 5kg
+28,Brown Bread 400g
+29,Apple iPhone 14 Pro
+30,Nike Air Max Shoes
+31,Aashirvaad Atta 5kg
+32,Adidas Ultraboost
+33,Zara Slim Fit Shirt
+34,Adidas Ultraboost
+35,Adidas Ultraboost
+36,Organic Apple 1kg
+37,Brown Bread 400g
+38,Organic Apple 1kg
+39,Nike Air Max Shoes
+40,Zara Slim Fit Shirt
+41,Apple iPhone 14 Pro
+42,Fortune Sunflower Oil 1L
+43,Zara Slim Fit Shirt
+44,Adidas Ultraboost
+45,Fortune Sunflower Oil 1L
+46,Fresh Milk 1L
+47,Organic Apple 1kg
+48,Zara Slim Fit Shirt
+49,Nike Air Max Shoes
+50,Nike Air Max Shoes
+51,Brown Bread 400g
+52,Levis 501 Jeans
+53,Adidas Ultraboost
+54,Nike Air Max Shoes
+55,Brown Bread 400g
+56,Puma Sports T-Shirt
+57,Puma Sports T-Shirt
+58,Organic Apple 1kg
+59,Apple iPhone 14 Pro
+60,Nike Air Max Shoes
+61,Samsung Galaxy S22 Ultra
+62,Levis 501 Jeans
+63,Samsung Galaxy S22
+64,HP Pavilion Laptop
+65,Fresh Milk 1L
+66,Zara Slim Fit Shirt
+67,Aashirvaad Atta 5kg
+68,Adidas Ultraboost
+69,Sony WH-1000XM4 Headphones
+70,Sony WH-1000XM4 Headphones
+71,HP Pavilion Laptop
+72,Fortune Sunflower Oil 1L
+73,Samsung Galaxy S22
+74,Apple iPhone 14
+75,Fortune Sunflower Oil 1L
+76,Fresh Milk 1L
+77,Sony WH-1000XM4 Headphones
+78,HP Pavilion Laptop
+79,Samsung Galaxy S22
+80,Nike Air Max Shoes
+81,Fortune Sunflower Oil 1L
+82,Aashirvaad Atta 5kg
+83,Adidas Ultraboost
+84,Fortune Sunflower Oil 1L
+85,Fortune Sunflower Oil 1L
+86,Brown Bread 400g
+87,Apple iPhone 14
+88,Brown Bread 400g
+89,Samsung Galaxy S22 Ultra
+90,Puma Sports T-Shirt
+91,Fresh Milk 1L
+92,Nike Air Max Shoes
+93,Apple AirPods Pro
+94,Organic Apple 1kg
+95,Sony WH-1000XM4 Headphones
+96,Samsung Galaxy S22
+97,Brown Bread 400g
+98,Nike Air Max Shoes
+99,Aashirvaad Atta 5kg
+100,Samsung Galaxy S22 Ultra
+101,Puma Sports T-Shirt
+102,Zara Slim Fit Shirt
+103,Puma Sports T-Shirt
+104,Samsung Galaxy S22
+105,Dell Inspiron 15
+106,Samsung Galaxy S22
+107,Sony WH-1000XM4 Headphones
+108,Aashirvaad Atta 5kg
+109,Fortune Sunflower Oil 1L
+110,Sony WH-1000XM4 Headphones
+111,Samsung Galaxy S22
+112,Samsung Galaxy S22 Ultra
+113,Nike Air Max Shoes
+114,Fortune Sunflower Oil 1L
+115,Fortune Sunflower Oil 1L
+116,Aashirvaad Atta 5kg
+117,Adidas Ultraboost
+118,Organic Apple 1kg
+119,Puma Sports T-Shirt
+120,Dell Inspiron 15
+121,Fortune Sunflower Oil 1L
+122,Sony WH-1000XM4 Headphones
+123,Fresh Milk 1L
+124,Samsung Galaxy S22
+125,Samsung Galaxy S22
+126,Sony WH-1000XM4 Headphones
+127,Samsung Galaxy S22
+128,Organic Apple 1kg
+129,Aashirvaad Atta 5kg
+130,Samsung Galaxy S22
+131,Nike Air Max Shoes
+132,Puma Sports T-Shirt
+133,Dell Inspiron 15
+134,Nike Air Max Shoes
+135,Samsung Galaxy S22
+136,Fortune Sunflower Oil 1L
+137,Aashirvaad Atta 5kg
+138,Nike Air Max Shoes
+139,Samsung Galaxy S22 Ultra
+140,Organic Apple 1kg
+141,Apple iPhone 14
+142,Adidas Ultraboost
+143,Adidas Ultraboost
+144,Puma Sports T-Shirt
+145,Fortune Sunflower Oil 1L
+146,HP Pavilion Laptop
+147,Apple iPhone 14
+148,Aashirvaad Atta 5kg
+149,Samsung Galaxy S22
+150,Apple iPhone 14 Pro
+151,Adidas Ultraboost
+152,Fresh Milk 1L
+153,Adidas Ultraboost
+154,Zara Slim Fit Shirt
+155,Aashirvaad Atta 5kg
+156,Fortune Sunflower Oil 1L
+157,HP Pavilion Laptop
+158,Aashirvaad Atta 5kg
+159,Adidas Ultraboost
+160,Apple AirPods Pro
+161,Adidas Ultraboost
+162,Sony WH-1000XM4 Headphones
+163,Nike Air Max Shoes
+164,Aashirvaad Atta 5kg
+165,Apple iPhone 14
+166,Organic Apple 1kg
+167,Sony WH-1000XM4 Headphones
+168,Organic Apple 1kg
+169,Levis 501 Jeans
+170,Samsung Galaxy S22
+171,Nike Air Max Shoes
+172,Puma Sports T-Shirt
+173,Zara Slim Fit Shirt
+174,Aashirvaad Atta 5kg
+175,Adidas Ultraboost
+176,Samsung Galaxy S22 Ultra
+177,Puma Sports T-Shirt
+178,HP Pavilion Laptop
+179,Samsung Galaxy S22
+180,Brown Bread 400g
+181,HP Pavilion Laptop
+182,HP Pavilion Laptop
+183,Dell Inspiron 15
+184,Fortune Sunflower Oil 1L
+185,Levis 501 Jeans
+186,Levis 501 Jeans
+187,Zara Slim Fit Shirt
+188,Sony WH-1000XM4 Headphones
+189,Nike Air Max Shoes
+190,Brown Bread 400g
+191,Nike Air Max Shoes
+192,Brown Bread 400g
+193,Puma Sports T-Shirt
+194,Samsung Galaxy S22
+195,Levis 501 Jeans
+196,Apple AirPods Pro
+197,Dell Inspiron 15
+198,Puma Sports T-Shirt
+199,Organic Apple 1kg
+200,Fortune Sunflower Oil 1L
+201,Brown Bread 400g
+202,HP Pavilion Laptop
+203,Levis 501 Jeans
+204,Fresh Milk 1L
+205,Zara Slim Fit Shirt
+206,Apple AirPods Pro
+207,Fresh Milk 1L
+208,Adidas Ultraboost
+209,Sony WH-1000XM4 Headphones
+210,Levis 501 Jeans
+211,Fortune Sunflower Oil 1L
+212,Adidas Ultraboost
+213,Dell Inspiron 15
+214,Fresh Milk 1L
+215,Apple iPhone 14 Pro
+216,Fresh Milk 1L
+217,Adidas Ultraboost
+218,Levis 501 Jeans
+219,Adidas Ultraboost
+220,Aashirvaad Atta 5kg
+221,Apple AirPods Pro
+222,Nike Air Max Shoes
+223,Adidas Ultraboost
+224,Adidas Ultraboost
+225,Nike Air Max Shoes
+226,Samsung Galaxy S22 Ultra
+227,HP Pavilion Laptop
+228,Aashirvaad Atta 5kg
+229,Apple AirPods Pro
+230,Levis 501 Jeans
+231,Organic Apple 1kg
+232,Sony WH-1000XM4 Headphones
+233,Fortune Sunflower Oil 1L
+234,Dell Inspiron 15
+235,Zara Slim Fit Shirt
+236,Sony WH-1000XM4 Headphones
+237,Aashirvaad Atta 5kg
+238,Zara Slim Fit Shirt
+239,Aashirvaad Atta 5kg
+240,HP Pavilion Laptop
+241,Organic Apple 1kg
+242,Fortune Sunflower Oil 1L
+243,Apple AirPods Pro
+244,Levis 501 Jeans
+245,Apple iPhone 14
+246,Levis 501 Jeans
+247,Brown Bread 400g
+248,Levis 501 Jeans
+249,Levis 501 Jeans
+250,Nike Air Max Shoes
+251,Organic Apple 1kg
+252,Fortune Sunflower Oil 1L
+253,Brown Bread 400g
+254,Apple AirPods Pro
+255,Fortune Sunflower Oil 1L
+256,Brown Bread 400g
+257,HP Pavilion Laptop
+258,HP Pavilion Laptop
+259,HP Pavilion Laptop
+260,Samsung Galaxy S22 Ultra
+261,Apple AirPods Pro
+262,Sony WH-1000XM4 Headphones
+263,Fresh Milk 1L
+264,Organic Apple 1kg
+265,Apple iPhone 14
+266,Aashirvaad Atta 5kg
+267,Zara Slim Fit Shirt
+268,Zara Slim Fit Shirt
+269,Zara Slim Fit Shirt
+270,Adidas Ultraboost
+271,Sony WH-1000XM4 Headphones
+272,Levis 501 Jeans
+273,Fortune Sunflower Oil 1L
+274,Dell Inspiron 15
+275,Organic Apple 1kg
+276,Zara Slim Fit Shirt
+277,Nike Air Max Shoes
+278,Apple iPhone 14 Pro
+279,Apple AirPods Pro
+280,Organic Apple 1kg
+281,Levis 501 Jeans
+282,Sony WH-1000XM4 Headphones
+283,Fortune Sunflower Oil 1L
+284,Fresh Milk 1L
+285,Brown Bread 400g
+286,Fresh Milk 1L
+287,Zara Slim Fit Shirt
+288,Apple iPhone 14
+289,Apple AirPods Pro
+290,Organic Apple 1kg
+291,Nike Air Max Shoes
+292,Nike Air Max Shoes
+293,Sony WH-1000XM4 Headphones
+294,Nike Air Max Shoes
+295,Fresh Milk 1L
+296,Fortune Sunflower Oil 1L
+297,Organic Apple 1kg
+298,Dell Inspiron 15
+299,Nike Air Max Shoes
+300,Brown Bread 400g
+301,Levis 501 Jeans
+302,Apple iPhone 14
+303,Apple iPhone 14 Pro
+304,Aashirvaad Atta 5kg
+305,Dell Inspiron 15
+306,Puma Sports T-Shirt
+307,Dell Inspiron 15
+308,Levis 501 Jeans
+309,Zara Slim Fit Shirt
+310,Dell Inspiron 15
+311,Samsung Galaxy S22 Ultra
+312,Organic Apple 1kg
+313,Apple iPhone 14 Pro
+314,Dell Inspiron 15
+315,Puma Sports T-Shirt
+316,Apple iPhone 14 Pro
+317,Aashirvaad Atta 5kg
+318,Samsung Galaxy S22 Ultra
+319,Puma Sports T-Shirt
+320,Organic Apple 1kg
+321,Dell Inspiron 15
+322,Fresh Milk 1L
+323,Brown Bread 400g
+324,Fortune Sunflower Oil 1L
+325,Fortune Sunflower Oil 1L
+326,HP Pavilion Laptop
+327,Aashirvaad Atta 5kg
+328,Apple AirPods Pro
+329,Organic Apple 1kg
+330,Adidas Ultraboost
+331,Nike Air Max Shoes
+332,Zara Slim Fit Shirt
+333,HP Pavilion Laptop
+334,Zara Slim Fit Shirt
+335,Puma Sports T-Shirt
+336,Dell Inspiron 15
+337,Fresh Milk 1L
+338,Apple iPhone 14 Pro
+339,Zara Slim Fit Shirt
+340,HP Pavilion Laptop
+341,Apple AirPods Pro
+342,Samsung Galaxy S22
+343,Puma Sports T-Shirt
+344,Dell Inspiron 15
+345,Aashirvaad Atta 5kg
+346,Sony WH-1000XM4 Headphones
+347,Levis 501 Jeans
+348,Nike Air Max Shoes
+349,Brown Bread 400g
+350,Organic Apple 1kg
+351,Aashirvaad Atta 5kg
+352,Dell Inspiron 15
+353,Samsung Galaxy S22
+354,Samsung Galaxy S22
+355,Fresh Milk 1L
+356,Zara Slim Fit Shirt
+357,Samsung Galaxy S22 Ultra
+358,Apple AirPods Pro
+359,Samsung Galaxy S22
+360,Brown Bread 400g
+361,Nike Air Max Shoes
+362,Fortune Sunflower Oil 1L
+363,Adidas Ultraboost
+364,Samsung Galaxy S22 Ultra
+365,Levis 501 Jeans
+366,Samsung Galaxy S22 Ultra
+367,Apple iPhone 14 Pro
+368,Samsung Galaxy S22
+369,Nike Air Max Shoes
+370,Fresh Milk 1L
+371,Adidas Ultraboost
+372,Nike Air Max Shoes
+373,Brown Bread 400g
+374,Zara Slim Fit Shirt
+375,HP Pavilion Laptop
+376,Adidas Ultraboost
+377,HP Pavilion Laptop
+378,Fresh Milk 1L
+379,Nike Air Max Shoes
+380,HP Pavilion Laptop
+381,Levis 501 Jeans
+382,Adidas Ultraboost
+383,Zara Slim Fit Shirt
+384,Organic Apple 1kg
+385,Puma Sports T-Shirt
+386,Sony WH-1000XM4 Headphones
+387,HP Pavilion Laptop
+388,Organic Apple 1kg
+389,Levis 501 Jeans
+390,Samsung Galaxy S22 Ultra
+391,Nike Air Max Shoes
+392,Dell Inspiron 15
+393,Sony WH-1000XM4 Headphones
+394,Brown Bread 400g
+395,Fortune Sunflower Oil 1L
+396,Fortune Sunflower Oil 1L
+397,Samsung Galaxy S22 Ultra
+398,Fresh Milk 1L
+399,Fortune Sunflower Oil 1L
+400,Fresh Milk 1L
+401,Puma Sports T-Shirt
+402,Dell Inspiron 15
+403,Adidas Ultraboost
+404,Fresh Milk 1L
+405,Dell Inspiron 15
+406,Aashirvaad Atta 5kg
+407,Apple iPhone 14
+408,Samsung Galaxy S22 Ultra
+409,Samsung Galaxy S22 Ultra
+410,Zara Slim Fit Shirt
+411,Organic Apple 1kg
+412,Brown Bread 400g
+413,HP Pavilion Laptop
+414,Levis 501 Jeans
+415,Samsung Galaxy S22 Ultra
+416,Organic Apple 1kg
+417,Organic Apple 1kg
+418,Puma Sports T-Shirt
+419,Fresh Milk 1L
+420,Samsung Galaxy S22
+421,Puma Sports T-Shirt
+422,Fortune Sunflower Oil 1L
+423,HP Pavilion Laptop
+424,Fortune Sunflower Oil 1L
+425,Adidas Ultraboost
+426,Apple iPhone 14
+427,Sony WH-1000XM4 Headphones
+428,Fresh Milk 1L
+429,Puma Sports T-Shirt
+430,Aashirvaad Atta 5kg
+431,Brown Bread 400g
+432,Samsung Galaxy S22
+433,Puma Sports T-Shirt
+434,Fortune Sunflower Oil 1L
+435,Aashirvaad Atta 5kg
+436,Zara Slim Fit Shirt
+437,Aashirvaad Atta 5kg
+438,Zara Slim Fit Shirt
+439,Apple AirPods Pro
+440,Brown Bread 400g
+441,Fortune Sunflower Oil 1L
+442,Aashirvaad Atta 5kg
+443,Aashirvaad Atta 5kg
+444,Samsung Galaxy S22 Ultra
+445,Adidas Ultraboost
+446,Fresh Milk 1L
+447,Samsung Galaxy S22
+448,HP Pavilion Laptop
+449,HP Pavilion Laptop
+450,Samsung Galaxy S22 Ultra
+451,Apple iPhone 14 Pro
+452,Sony WH-1000XM4 Headphones
+453,Samsung Galaxy S22 Ultra
+454,Apple iPhone 14
+455,Levis 501 Jeans
+456,Samsung Galaxy S22
+457,Levis 501 Jeans
+458,Organic Apple 1kg
+459,Dell Inspiron 15
+460,Zara Slim Fit Shirt
+461,Adidas Ultraboost
+462,Adidas Ultraboost
+463,Organic Apple 1kg
+464,Fortune Sunflower Oil 1L
+465,Fortune Sunflower Oil 1L
+466,Levis 501 Jeans
+467,Levis 501 Jeans
+468,Aashirvaad Atta 5kg
+469,Zara Slim Fit Shirt
+470,Zara Slim Fit Shirt
+471,Aashirvaad Atta 5kg
+472,Aashirvaad Atta 5kg
+473,Nike Air Max Shoes
+474,Zara Slim Fit Shirt
+475,Apple iPhone 14 Pro
+476,Dell Inspiron 15
+477,Apple AirPods Pro
+478,Samsung Galaxy S22 Ultra
+479,Puma Sports T-Shirt
+480,Dell Inspiron 15
+481,Apple iPhone 14
+482,Fortune Sunflower Oil 1L
+483,Organic Apple 1kg
+484,Apple iPhone 14
+485,Dell Inspiron 15
+486,Levis 501 Jeans
+487,Apple iPhone 14 Pro
+488,Levis 501 Jeans
+489,Adidas Ultraboost
+490,Apple AirPods Pro
+491,Brown Bread 400g
+492,Levis 501 Jeans
+493,Nike Air Max Shoes
+494,Adidas Ultraboost
+495,Sony WH-1000XM4 Headphones
+496,Adidas Ultraboost
+497,Adidas Ultraboost
+498,Levis 501 Jeans
+499,Apple iPhone 14 Pro
+500,Apple AirPods Pro
